@@ -1,0 +1,25 @@
+body { background-color: antiquewhite; }
+.p1 { color: red; }
+.p2 { color: red; }
+.p3 { color: red; }
+.p4 { color: red; }
+
+h1 {
+ text-align: center;
+}
+
+nav {
+    margin-bottom: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: right;
+    border-top: 3px solid rgb(0, 0, 0);
+    border-bottom: 3px solid rgb(0, 0, 0);
+    border-left: 3px solid rgb(0, 0, 0);
+    border-right: 3px solid rgb(0, 0, 0);
+}
+.nav-link {
+    margin-right: 25px;
+}
